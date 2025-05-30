@@ -26,6 +26,7 @@ Removed rows where both total_laid_off and percentage_laid_off were missing, as 
 Dropped the row_num column used for duplicate tracking once cleanup was complete.
 
 Skills Demonstrated:
+
 -Data profiling and duplicate identification
 
 -Data standardization and formatting
